@@ -18,6 +18,7 @@ https://git-scm.com/download
 - [x] Você precisa resolver um conflito.
 - [x] Antes de enviar a resolução precisamos atualizar o projeto local.
 - [x] Você precisa voltar um arquivo para um determinado momento da linha do tempo.
+- [x] Você precisa recuperar algo deletado.
 
 * `Git Init`// inicia a linha do tempo
 * `Git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
