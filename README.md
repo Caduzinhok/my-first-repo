@@ -22,3 +22,4 @@ https://git-scm.com/download
 - `Git log`// visualiza os pontos na linha do tempo / commit
 - `Git status` // informa o estado das alterações do nosso projeto
 - `Git show` // apresenta determinado ponto na história
+--------
